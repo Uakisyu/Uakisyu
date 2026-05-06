@@ -24,6 +24,6 @@ C++ & ImGui >> ImGui-UAK >> TideDefender
 
 ### 📃 𝔾𝕚𝕥𝕙𝕦𝕓 𝕍𝕚𝕖𝕨𝕤 📃
 
-[![Uakisyu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uakisyu&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Momifeh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Momifeh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Uakisyu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Uakisyu&show_icons=true&theme=dracula)
+![Momifeh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Momifeh&show_icons=true&theme=dracula)
